@@ -1,0 +1,14 @@
+baishali-db.condrdujnvxe.us-east-1.rds.amazonaws.com
+
+
+3306
+
+username: admin
+password: blooming522
+
+
+
+CREATE TABLE baishali-table (LastName varchar(20), FirstName varchar(20), Address varchar(100),City varchar(50));
+
+
+INSERT INTO baishali-table (LastName, FirstName, Address,City)VALUES ("bastola", "baishali", "12201 taylors way", "Pickerington");
